@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khaled's Profile</title>
+    <style>
+        body {
+            background-color: #f0f0f0; /* Light gray background color */
+            color: #333; /* Dark gray text color */
+            text-align: center; /* Center-align all text */
+        }
+
+        .container {
+            max-width: 800px; /* Set maximum width for content */
+            margin: 0 auto; /* Center the container horizontally */
+            padding: 20px; /* Add some padding for better readability */
+            box-sizing: border-box; /* Include padding in total width */
+        }
+
+        img {
+            display: block; /* Center-align images */
+            margin: 0 auto; /* Center the image horizontally */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+
 <h1 align="center">Hi 👋, I'm KHLAED</h1>
 <h3 align="center">Computer Science Researcher, Data Scientist, Data Engineering And ALX-GRADE SOFTWARE ENGINEERING</h3>
 
@@ -36,3 +67,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekingstar&" alt="thekingstar" /></p>
 
+    </div>
+</body>
+</html>
