@@ -8,25 +8,10 @@
         body {
             background-color: #f0f0f0; /* Light gray background color */
             color: #333; /* Dark gray text color */
-            text-align: center; /* Center-align all text */
-        }
-
-        .container {
-            max-width: 800px; /* Set maximum width for content */
-            margin: 0 auto; /* Center the container horizontally */
-            padding: 20px; /* Add some padding for better readability */
-            box-sizing: border-box; /* Include padding in total width */
-        }
-
-        img {
-            display: block; /* Center-align images */
-            margin: 0 auto; /* Center the image horizontally */
         }
     </style>
 </head>
-
 <body>
-    <div class="container">
 
 
 <h1 align="center">Hi 👋, I'm KHLAED</h1>
@@ -67,6 +52,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekingstar&" alt="thekingstar" /></p>
 
-    </div>
 </body>
 </html>
