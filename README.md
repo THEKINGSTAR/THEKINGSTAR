@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=THEKINGSTAR&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thekingstar&show_icons=true&locale=en&layout=compact" alt="thekingstar" width="400" />
 </p>
 
@@ -60,8 +61,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekingstar&show_icons=true&locale=en" alt="thekingstar" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekingstar&" alt="thekingstar" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thekingstar&show_icons=true&locale=en" alt="thekingstar" height="200",width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekingstar&" alt="thekingstar" height="200",width="400" />
 </p>
 
 
