@@ -38,9 +38,12 @@
 
   <summary>Data Science - Projects</summary>
 
->- [Project 1](link-to-repo)
->- [Project 2](link-to-repo)
->- [Project 3](link-to-repo)
+>- [Project 1]([link-to-repo](https://github.com/THEKINGSTAR/IGSR_Sentiment_Analysis_Project))
+>- [Project 2](https://github.com/THEKINGSTAR/NLP_Project_medical_condition_prediction)
+>- [Project 3](https://github.com/THEKINGSTAR/self-driving-car-simulation)
+>- [Project 3](https://github.com/THEKINGSTAR/Kaggle-30-Days-of-ML)
+>- [Project 3]([link-to-repo](https://github.com/THEKINGSTAR/udacity_data_analysis_pro-nano-dgree))
+>- [Project 3]([link-to-repo](https://github.com/THEKINGSTAR/fwd-data-chalenger))
 
 </summary>
 </div>
