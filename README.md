@@ -111,12 +111,6 @@
 </p>
 
 
-### 😂 Random Dev Meme
-
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
-  <img src='https://memer-new.vercel.app/' style="height: 100%;" />
-</div>
-
 <div style="display: flex; justify-content: center; align-items: center; height: 400px;">
 
 [![](https://visitcount.itsvg.in/api?id=THEKINGSTAR&icon=0&color=1)](https://visitcount.itsvg.in)
