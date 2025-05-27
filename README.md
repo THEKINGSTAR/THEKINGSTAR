@@ -11,26 +11,28 @@
 ## 🚀 About Me
 
 <table>
+
 <tr>
+
 <td width="50%">
 
 ### 🎯 Current Focus
-\`\`\`yaml
-name: Khaled Mohamed Fathallah
-role: Computer Science Researcher
+- Name: Khaled Mohamed Fathallah
+- Role: Computer Science Researcher
 focus: 
   - 🧬 Bioinformatics Research
   - 📊 Data Science & ML
   - ⚙️ Data Engineering
   - 🔬 Computational Biology
-location: Alexandria, Egypt 🇪🇬
-education: ALX Software Engineering Graduate
-\`\`\`
+- Location: Alexandria, Egypt 🇪🇬
+- Education: ALX Software Engineering Graduate
 
 </td>
+
 <td width="50%">
 
 ### 🌱 What I'm Up To
+
 - 🔬 **Researching** protein structure prediction
 - 🧬 **Building** bioinformatics tools
 - 📊 **Analyzing** genomic datasets
@@ -38,7 +40,9 @@ education: ALX Software Engineering Graduate
 - 📚 **Learning** advanced ML techniques
 
 </td>
+
 </tr>
+
 </table>
 
 ---
