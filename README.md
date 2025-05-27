@@ -198,7 +198,9 @@ focus:
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=THEKINGSTAR&theme=tokyonight" />
+
+![THEKINGSTAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=THEKINGSTAR&show_icons=true&theme=tokyonight)
+
 </div>
 
 ---
