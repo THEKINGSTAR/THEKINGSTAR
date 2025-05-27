@@ -14,7 +14,7 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Current Focus
 - Name: Khaled Mohamed Fathallah
@@ -29,7 +29,7 @@ focus:
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 What I'm Up To
 
