@@ -77,11 +77,6 @@ focus:
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=THEKINGSTAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEKINGSTAR&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEKINGSTAR&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -89,74 +84,20 @@ focus:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=THEKINGSTAR&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
 
-## 🏆 GitHub Trophies
+
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=THEKINGSTAR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=THEKINGSTAR&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&icon_color=FFB700&title_color=FFB700&border_color=30363D"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEKINGSTAR&layout=compact&langs_count=8&theme=github_dark_dimmed&title_color=FFB700&border_color=30363D"/>
+
 </div>
 
 ---
 
-## 🔬 Featured Research & Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧬 Bioinformatics Pipeline
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THEKINGSTAR&repo=genomic-analysis-toolkit&theme=tokyonight)](https://github.com/THEKINGSTAR/genomic-analysis-toolkit)
-
-**Tech Stack:** Python, BioPython, Pandas
-- Automated genomic sequence analysis
-- Protein structure prediction
-- Phylogenetic tree construction
-
-</td>
-<td width="50%">
-
-### 📊 ML for Drug Discovery
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THEKINGSTAR&repo=drug-discovery-ml&theme=tokyonight)](https://github.com/THEKINGSTAR/drug-discovery-ml)
-
-**Tech Stack:** TensorFlow, Scikit-learn, RDKit
-- Molecular property prediction
-- QSAR modeling
-- Chemical compound classification
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Data Engineering Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THEKINGSTAR&repo=biodata-pipeline&theme=tokyonight)](https://github.com/THEKINGSTAR/biodata-pipeline)
-
-**Tech Stack:** Apache Spark, Docker, AWS
-- Real-time genomic data processing
-- Scalable ETL pipelines
-- Cloud-native architecture
-
-</td>
-<td width="50%">
-
-### 🔬 Research Publications
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THEKINGSTAR&repo=research-portfolio&theme=tokyonight)](https://github.com/THEKINGSTAR/research-portfolio)
-
-**Content:** Papers, Presentations, Datasets
-- Computational biology research
-- Conference presentations
-- Open datasets and reproducible code
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🎯 Current Research Focus
 
@@ -193,15 +134,29 @@ focus:
 </table>
 </div>
 
+
 ---
 
-## 📈 Contribution Graph
 
+## 🎓 Education & Credentials
 <div align="center">
 
-![THEKINGSTAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=THEKINGSTAR&show_icons=true&theme=tokyonight)
+| &nbsp; | Degree / Certification | Institution | Status |
+|:---:|---|---|:---:|
+| 🎓 | MSc Applied Data Science | WorldQuant University | ✅ Completed |
+| 🎓 | MSc Computer Science | Alexandria University | 🔄 In Progress |
+| 🏅 | ALX Software Engineering | ALX Africa | ✅ Completed |
+| 📜 | Data Analysis Nanodegree | Udacity | ✅ 2021 |
+| 🏆 | MCSE — C# | Microsoft | ✅ 2007 |
+| 🏆 | MCSA | Microsoft | ✅ 2003 |
+
+<br/>
+
+[![Certificates Repo](https://img.shields.io/badge/📜_View_All_Certificates-FFB700?style=for-the-badge&logoColor=black)](https://github.com/THEKINGSTAR/Certificates_Of_Achievement)
 
 </div>
+
+<br/>
 
 ---
 
@@ -213,19 +168,12 @@ focus:
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/khaled-mohamed)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled.mohamed.fathallah@gmail.com.com)
 
 </div>
 
 ---
 
-## 💡 Fun Facts
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 <details>
 <summary>🎮 More About Me</summary>
@@ -246,6 +194,16 @@ focus:
 Currently vibing to: Lo-fi beats, Classical music, and Synthwave 🎶
 
 </details>
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
 
 ---
 
