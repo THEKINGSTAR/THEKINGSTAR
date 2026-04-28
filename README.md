@@ -52,7 +52,7 @@ Explore my repositories to see what I've built:
 ## Let's Connect
 
 - **GitHub:** [THEKINGSTAR](https://github.com/THEKINGSTAR)
-- **LinkedIn:** [khaled-mohamed](https://linkedin.com/in/khaled-mohamed)
+- **LinkedIn:** [khaled-mohamed](https://www.linkedin.com/in/khaled-mohamed)
 - **Email:** [Get in touch](mailto:khaled@example.com)
 
 ---
