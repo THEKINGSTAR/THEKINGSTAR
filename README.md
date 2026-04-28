@@ -77,7 +77,9 @@ focus:
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=THEKINGSTAR&theme=tokyonight" alt="https://git.io/streak-stats" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=THEKINGSTAR&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
