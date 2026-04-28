@@ -77,7 +77,7 @@ focus:
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=THEKINGSTAR&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=THEKINGSTAR&theme=tokyonight" alt="https://git.io/streak-stats" />
 </div>
 
 <div align="center">
@@ -102,8 +102,6 @@ focus:
 ## 🎯 Current Research Focus
 
 <div align="center">
-
-
 
 <table>
 <tr>
