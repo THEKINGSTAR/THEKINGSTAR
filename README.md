@@ -6,9 +6,13 @@
 
 ![Bioinformatics animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
----
+</div>
 
 ## 🚀 About Me
+
+<div align="center">
+
+
 
 <table>
 
@@ -43,9 +47,9 @@ focus:
 
 </div>
 
-<div align="center">
-
 ## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### 💻 Programming Languages
 
@@ -72,13 +76,14 @@ focus:
 
 </div>
 
----
 
-## 📊 GitHub Analytics
+
+
+ ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=THEKINGSTAR&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=THEKINGSTAR&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -86,23 +91,16 @@ focus:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=THEKINGSTAR&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=THEKINGSTAR&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&icon_color=FFB700&title_color=FFB700&border_color=30363D"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEKINGSTAR&layout=compact&langs_count=8&theme=github_dark_dimmed&title_color=FFB700&border_color=30363D"/>
-
 </div>
 
----
 
 ## 🎯 Current Research Focus
 
 <div align="center">
+
+
 
 <table>
 <tr>
@@ -133,7 +131,7 @@ focus:
 </table>
 </div>
 
----
+
 
 ## 🎓 Education & Credentials
 
@@ -156,7 +154,6 @@ focus:
 
 <br/>
 
----
 
 ## 🌐 Connect With Me
 
@@ -169,8 +166,6 @@ focus:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled.mohamed.fathallah@gmail.com.com)
 
 </div>
-
----
 
 <div align="center">
 
@@ -206,7 +201,6 @@ Currently vibing to: Lo-fi beats, Classical music, and Synthwave 🎶
 
 </div>
 
----
 
 <div align="center">
 
