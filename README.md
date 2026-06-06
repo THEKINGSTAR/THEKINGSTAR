@@ -2,9 +2,9 @@
 
 # 🌟 Welcome to My Digital Universe 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khaled+Mohamed;Computer+Science+Researcher+%F0%9F%94%AC;Data+Scientist+%F0%9F%93%8A;Bioinformatics+Enthusiast+%F0%9F%A7%AC;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khaled+Mohamed;Computer+Science+Researcher+%F0%9F%94%AC;Data+Scientist+%F0%9F%93%8A;Bioinformatics+Enthusiast+%F0%9F%A7%AC;Building+the+Future+with+Code+%F0%9F%9A%80)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+![Bioinformatics animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ---
 
@@ -18,15 +18,12 @@
 
 ### 🎯 Current Focus
 
-- Name: Khaled Mohamed Fathallah
 - Role: Computer Science Researcher
 focus:
   - 🧬 Bioinformatics Research
   - 📊 Data Science & ML
   - ⚙️ Data Engineering
   - 🔬 Computational Biology
-- Location: Alexandria, Egypt 🇪🇬
-- Education: ALX Software Engineering Graduate
 
 </td>
 
@@ -41,16 +38,14 @@ focus:
 - 📚 **Learning** advanced ML techniques
 
 </td>
-
 </tr>
-
 </table>
 
----
-
-## 🛠️ Tech Arsenal
+</div>
 
 <div align="center">
+
+## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
 
@@ -88,7 +83,9 @@ focus:
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=THEKINGSTAR&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
@@ -175,7 +172,9 @@ focus:
 
 ---
 
-<summary>🎮 More About Me</summary>
+<div align="center">
+
+# ***🎮 More About Me***
 
 ### 🎯 Interests
 
@@ -195,11 +194,13 @@ focus:
 
 Currently vibing to: Lo-fi beats, Classical music, and Synthwave 🎶
 
----
+</div>
+
+<div align="center">
 
 ## 💡 Fun Facts
 
-<div align="center">
+
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
