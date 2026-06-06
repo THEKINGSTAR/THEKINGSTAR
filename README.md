@@ -17,9 +17,10 @@
 <td width="50%" valign="top">
 
 ### 🎯 Current Focus
+
 - Name: Khaled Mohamed Fathallah
 - Role: Computer Science Researcher
-focus: 
+focus:
   - 🧬 Bioinformatics Research
   - 📊 Data Science & ML
   - ⚙️ Data Engineering
@@ -52,9 +53,11 @@ focus:
 <div align="center">
 
 ### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=python,r,js,cpp,java,sql" />
 
 ### 🔬 Data Science & ML
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -62,12 +65,14 @@ focus:
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 ### 🧬 Bioinformatics Tools
+
 <img src="https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R_Bioconductor-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/BLAST-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Galaxy-4ECDC4?style=for-the-badge" />
 
 ### ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github" />
 
 </div>
@@ -77,8 +82,8 @@ focus:
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=THEKINGSTAR&theme=tokyonight)](https://git.io/streak-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=THEKINGSTAR&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,8 +92,6 @@ focus:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
-
-
 
 <div align="center">
 
@@ -99,7 +102,6 @@ focus:
 </div>
 
 ---
-
 
 ## 🎯 Current Research Focus
 
@@ -134,11 +136,10 @@ focus:
 </table>
 </div>
 
-
 ---
 
-
 ## 🎓 Education & Credentials
+
 <div align="center">
 
 | &nbsp; | Degree / Certification | Institution | Status |
@@ -174,26 +175,25 @@ focus:
 
 ---
 
-
-<details>
 <summary>🎮 More About Me</summary>
 
 ### 🎯 Interests
+
 - 🧬 **Computational Biology**: Passionate about using code to understand life
 - 🤖 **AI in Healthcare**: Building intelligent systems for medical research
 - 🌱 **Open Science**: Advocate for reproducible research and open data
 - 🎓 **Teaching**: Love sharing knowledge and mentoring students
 
 ### 🏃‍♂️ When I'm Not Coding
+
 - 📚 Reading scientific papers and tech blogs
 - 🎮 Playing strategy games (they're like algorithms!)
 - 🌍 Exploring new technologies and frameworks
 - ☕ Drinking way too much coffee
 
 ### 🎵 Coding Playlist
-Currently vibing to: Lo-fi beats, Classical music, and Synthwave 🎶
 
-</details>
+Currently vibing to: Lo-fi beats, Classical music, and Synthwave 🎶
 
 ---
 
@@ -218,4 +218,3 @@ Currently vibing to: Lo-fi beats, Classical music, and Synthwave 🎶
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-
