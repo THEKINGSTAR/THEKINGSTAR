@@ -53,10 +53,13 @@ focus:
 
 ### 💻 Programming Languages
 
+<div>
 <img src="https://skillicons.dev/icons?i=python,r,js,cpp,java,sql" />
+</div>
 
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEKINGSTAR&layout=compact&langs_count=8&theme=github_dark_dimmed&title_color=FFB700&border_color=30363D" />
+</div>
 
 ### 🔬 Data Science & ML
 
