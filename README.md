@@ -55,6 +55,9 @@ focus:
 
 <img src="https://skillicons.dev/icons?i=python,r,js,cpp,java,sql" />
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEKINGSTAR&layout=compact&langs_count=8&theme=github_dark_dimmed&title_color=FFB700&border_color=30363D" />
+
 ### 🔬 Data Science & ML
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
